@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <link rel="stylesheet" href="styling.css">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <title>Fruits Slice Game</title>
+</head>
+
+<body>
+    <div id="container">
+        <div id="trialsLeft"></div>
+        <div id="score">
+            Score: <span id="scorevalue">0</span>
+        </div>
+        <div id="fruitsContainer">
+            <span id="gameTitle">FRUITS SLICE GAME</span>
+            <img id="fruit1" class="fruit">
+        </div>
+        <div id="instruction">Slice Fruits</div>
+        <div id="startreset">Start Game</div>
+        <div id="gameover"></div>
+    </div>
+    <audio id="slicesound">
+        <source src="audio/slicefruit.mp3">
+        </source>
+        <source src="audio/slicefruit.ogg">
+        </source>
+    </audio>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="jquery.js"></script>
+</body>
+
+</html>
