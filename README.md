@@ -7,7 +7,7 @@
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ## Description
-I have created a Fruit Slice Game using jQuery and basic HTML and CSS. The game starts with a home screen and 3 Lives. The score increases as you keep slicing the fruits. Integrated jQuery and AJAX calls in web applications to enhance functionality, and user experience in games for kids.
+I have created a Fruit Slice Game using jQuery and basic HTML and CSS. The game starts with a home screen and 3 Lives. The score increases as you keep slicing the fruits. Integrated jQuery and AJAX calls in the web application to enhance functionality, and user experience for kids.
 
 ## Gameplay
 
